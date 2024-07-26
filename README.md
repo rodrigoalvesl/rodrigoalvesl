@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rodrigo Alves and i'm a passionate Full Stack Developer with a background in Analysis and Systems Development. At 21 years old, I have dedicated myself to honing my skills and expanding my knowledge in the world of software development.</p>
+<p align="left">My name is Rodrigo Alves and i'm a passionate Full Stack Developer with a background in Analysis and Systems Development. At 22 years old, I have dedicated myself to honing my skills and expanding my knowledge in the world of software development.</p>
 
 ###
 
@@ -26,8 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />  
 </div>
 
 ###
