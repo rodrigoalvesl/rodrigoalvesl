@@ -29,5 +29,6 @@ I'm passionate about software craftsmanship, problem-solving, and continuously i
 <h2 align="left">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoalvesl&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoalvesl&show_icons=true&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoalvesl&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
 </div>
